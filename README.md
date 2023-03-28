@@ -17,7 +17,7 @@
 <a href="https://twitter.com/kazinayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kazinayeem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-ali-nayeem-43bb331b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-ali-nayeem-43bb331b5" height="30" width="40" /></a>
 <a href="https://fb.com/kazi.nayeem.792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi.nayeem.792" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@learnwithnayeem6339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithnayeem6339" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@learnwithnayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithnayeem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
