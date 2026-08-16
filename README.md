@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bornosoftnr.com/logo.png" alt="Bornosoft" width="80" />
+<img src="[https://bornosoftnr.com/logo.png](https://bornosoft.bd/images/logo.jpeg)" alt="Bornosoft" width="80" />
 
 # 👋 Mohammad Ali Nayeem
 
